@@ -64,7 +64,7 @@ $insert_user = mysqli_query($con, $insert_user);
 
  if($insert_user){
  
- echo "<script>alert('Product inserted successfully !')</script>";
+ echo "<script>alert('Insert New Admin !')</script>";
  
  
 
